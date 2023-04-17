@@ -1,2 +1,2 @@
 this is the original line
-this is the new line from
+this is the another line from
